@@ -17,4 +17,5 @@ Building
 Running
 ----
 
+- `nc -u 127.0.0.1 -l 1313`
 - `./src/app`
